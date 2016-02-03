@@ -35,6 +35,8 @@ Plan:
 
 - Additional material:
 
- - ACSL Mini-tutorial
+ - On Hoare logic as defined for toy languages:
+    https://en.wikipedia.org/wiki/Hoare_logic
 
- - ACSL by example
+ - On the ACSL specification language for C:
+    ACSL Mini-tutorial, ACSL by example
