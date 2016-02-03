@@ -1,3 +1,6 @@
+*~
+.frama-c
+
 # Object files
 *.o
 *.ko
