@@ -1,4 +1,4 @@
-/*@ Q1: translate the ACSL contract of the function initialize to natural
+/* Q1: translate the ACSL contract of the function initialize to natural
   language.
 
   Q2: propose a loop invariant that allows to verify the function.

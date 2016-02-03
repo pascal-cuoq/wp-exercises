@@ -1,4 +1,4 @@
-/*@ Q1: write the loop invariant that allows to verify incr() against its
+/* Q1: write the loop invariant that allows to verify incr() against its
   (partial) specification. */
 
 int p[10];

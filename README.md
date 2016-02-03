@@ -1,4 +1,8 @@
 # wp-exercises
+
+git clone https://github.com/pascal-cuoq/wp-exercises.git
+
+
 Exercises around weakest precondition-based verification in Frama-C
 
 Plan:
